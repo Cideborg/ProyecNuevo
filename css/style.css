@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:Tahoma;
+    overflow-x: hidden;
+}
+
+#fondo{
+    background-color: blueviolet;
+    /* background-image: url(../img/pastas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.header{
+    background-color: black;
+}
+
+.menuNav a{
+    font-size: 16px;
+    margin: 3rem;
+    font-weight: bold;
+    color:rgb(112, 208, 240);
+}
+
+.texto{
+    font-size: 25px;
+    font-weight: bold;
+    color:orange;
+}
+
+.carousel-inner{
+    max-height: 39rem;
+}
+
+.imgSlider{
+    width: 100%;
+    padding-bottom:15px;
+}
+
+.parrafo{
+    font-weight: bolder;
+    color: black;
+}
+
+.tituloProducto{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.parrafoProducto{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 4px;
+    padding: 4px;
+}
+
+.imgNosotros{
+width: 100%;
+}
+
+
+.parrafoNosotros{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 4px;
+    padding: 4px;
+}
+
+.imgGaleria{
+    width: 350px;
+}
+
+.galeria{
+    background-color: coral;
+}
+
+.imgFooter{
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+}
+
+.bg-contacto{
+    position: relative;
+    top: -10px;
+}
+
+.seccion-contacto{
+    background-color: #1b2a4e;
+    min-height: 500px;
+    position: relative;
+}
+
+.form-contenedor{
+    width: 100vw;
+    height: 100vh;
+}
+
+.imgContacto{
+    width: 500px;
+    align-items: center;
+    margin: 25px;
+}
+
+
+@media (max-width:768px){
+    .intro, .img-fluid{
+        width: 90% !important;
+    }
+
+    .productoFila{
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .bg-contacto{
+        position: relative;
+        top: -50px;
+    }
+
+}

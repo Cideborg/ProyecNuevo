@@ -1,0 +1,1014 @@
+<!doctype html>
+<html lang="es-ES">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://zentyal.com/xmlrpc.php">
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" href="https://zentyal.com/features/" hreflang="en" />
+<link rel="alternate" href="https://zentyal.com/es/caracteristicas/" hreflang="es" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Características - Zentyal Linux Server</title>
+	<meta name="description" content="Alternativa a Microsoft Active Directory. Servidor de dominio y directorio, servidor de correo estándar, gateway y servidor de infraestructura." />
+	<link rel="canonical" href="https://zentyal.com/es/caracteristicas/" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:locale:alternate" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Características - Zentyal Linux Server" />
+	<meta property="og:description" content="Alternativa a Microsoft Active Directory. Servidor de dominio y directorio, servidor de correo estándar, gateway y servidor de infraestructura." />
+	<meta property="og:url" content="https://zentyal.com/es/caracteristicas/" />
+	<meta property="og:site_name" content="Zentyal Linux Server" />
+	<meta property="article:publisher" content="https://www.facebook.com/zentyal/" />
+	<meta property="article:modified_time" content="2021-03-15T11:04:31+00:00" />
+	<meta property="og:image" content="https://zentyal.com/wp-content/themes/storefront-zentyal-child/assets/images/features-dash.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@zentyal" />
+	<meta name="twitter:label1" content="Tiempo de lectura" />
+	<meta name="twitter:data1" content="4 minutos" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://zentyal.com/es/inicio/#organization","name":"Zentyal","url":"https://zentyal.com/es/inicio/","sameAs":["https://www.facebook.com/zentyal/","https://www.youtube.com/user/zentyal","https://twitter.com/zentyal"],"logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://zentyal.com/es/inicio/#/schema/logo/image/","url":"https://zentyal.com/wp-content/uploads/2020/01/zentyal-logo-rgb-horizontal.png","contentUrl":"https://zentyal.com/wp-content/uploads/2020/01/zentyal-logo-rgb-horizontal.png","width":1107,"height":365,"caption":"Zentyal"},"image":{"@id":"https://zentyal.com/es/inicio/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://zentyal.com/es/inicio/#website","url":"https://zentyal.com/es/inicio/","name":"Zentyal Server","description":"La alternativa sencilla a Windows Server","publisher":{"@id":"https://zentyal.com/es/inicio/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://zentyal.com/es/inicio/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"WebPage","@id":"https://zentyal.com/es/caracteristicas/#webpage","url":"https://zentyal.com/es/caracteristicas/","name":"Características - Zentyal Linux Server","isPartOf":{"@id":"https://zentyal.com/es/inicio/#website"},"datePublished":"2019-02-07T22:13:09+00:00","dateModified":"2021-03-15T11:04:31+00:00","description":"Alternativa a Microsoft Active Directory. Servidor de dominio y directorio, servidor de correo estándar, gateway y servidor de infraestructura.","breadcrumb":{"@id":"https://zentyal.com/es/caracteristicas/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://zentyal.com/es/caracteristicas/"]}]},{"@type":"BreadcrumbList","@id":"https://zentyal.com/es/caracteristicas/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://zentyal.com/es/inicio/"},{"@type":"ListItem","position":2,"name":"Características"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel="alternate" type="application/rss+xml" title="Zentyal Linux Server &raquo; Feed" href="https://zentyal.com/es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Zentyal Linux Server &raquo; Feed de los comentarios" href="https://zentyal.com/es/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/zentyal.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://zentyal.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.3' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code>code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group:where(.has-background){padding:1.25em 2.375em}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='https://zentyal.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=7.4.3' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='https://zentyal.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=7.4.3' media='all' />
+<link rel='stylesheet' id='storefront-gutenberg-blocks-css'  href='https://zentyal.com/wp-content/themes/storefront/assets/css/base/gutenberg-blocks.css?ver=3.8.1' media='all' />
+<style id='storefront-gutenberg-blocks-inline-css'>
+
+				.wp-block-button__link:not(.has-text-color) {
+					color: #ffffff;
+				}
+
+				.wp-block-button__link:not(.has-text-color):hover,
+				.wp-block-button__link:not(.has-text-color):focus,
+				.wp-block-button__link:not(.has-text-color):active {
+					color: #ffffff;
+				}
+
+				.wp-block-button__link:not(.has-background) {
+					background-color: #ee4800;
+				}
+
+				.wp-block-button__link:not(.has-background):hover,
+				.wp-block-button__link:not(.has-background):focus,
+				.wp-block-button__link:not(.has-background):active {
+					border-color: #d52f00;
+					background-color: #d52f00;
+				}
+
+				.wp-block-quote footer,
+				.wp-block-quote cite,
+				.wp-block-quote__citation {
+					color: #6d6d6d;
+				}
+
+				.wp-block-pullquote cite,
+				.wp-block-pullquote footer,
+				.wp-block-pullquote__citation {
+					color: #6d6d6d;
+				}
+
+				.wp-block-image figcaption {
+					color: #6d6d6d;
+				}
+
+				.wp-block-separator.is-style-dots::before {
+					color: #333333;
+				}
+
+				.wp-block-file a.wp-block-file__button {
+					color: #ffffff;
+					background-color: #ee4800;
+					border-color: #ee4800;
+				}
+
+				.wp-block-file a.wp-block-file__button:hover,
+				.wp-block-file a.wp-block-file__button:focus,
+				.wp-block-file a.wp-block-file__button:active {
+					color: #ffffff;
+					background-color: #d52f00;
+				}
+
+				.wp-block-code,
+				.wp-block-preformatted pre {
+					color: #6d6d6d;
+				}
+
+				.wp-block-table:not( .has-background ):not( .is-style-stripes ) tbody tr:nth-child(2n) td {
+					background-color: #fdfdfd;
+				}
+
+				.wp-block-cover .wp-block-cover__inner-container h1:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h2:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h3:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h4:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h5:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h6:not(.has-text-color) {
+					color: #000000;
+				}
+
+				.wc-block-components-price-slider__range-input-progress,
+				.rtl .wc-block-components-price-slider__range-input-progress {
+					--range-color: #96588a;
+				}
+
+				/* Target only IE11 */
+				@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+					.wc-block-components-price-slider__range-input-progress {
+						background: #96588a;
+					}
+				}
+
+				.wc-block-components-button:not(.is-link) {
+					background-color: #333333;
+					color: #ffffff;
+				}
+
+				.wc-block-components-button:not(.is-link):hover,
+				.wc-block-components-button:not(.is-link):focus,
+				.wc-block-components-button:not(.is-link):active {
+					background-color: #1a1a1a;
+					color: #ffffff;
+				}
+
+				.wc-block-components-button:not(.is-link):disabled {
+					background-color: #333333;
+					color: #ffffff;
+				}
+
+				.wc-block-cart__submit-container {
+					background-color: #ffffff;
+				}
+
+				.wc-block-cart__submit-container::before {
+					color: rgba(220,220,220,0.5);
+				}
+
+				.wc-block-components-order-summary-item__quantity {
+					background-color: #ffffff;
+					border-color: #6d6d6d;
+					box-shadow: 0 0 0 2px #ffffff;
+					color: #6d6d6d;
+				}
+			
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 14px;--wp--preset--font-size--medium: 23px;--wp--preset--font-size--large: 26px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 16px;--wp--preset--font-size--huge: 37px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='vstr-frontend-css'  href='https://zentyal.com/wp-content/plugins/WP_VisitorsTracker/assets/css/vstr_frontend.min.css?ver=2.203' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://zentyal.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6' media='all' />
+<link rel='stylesheet' id='woo-multi-currency-css'  href='https://zentyal.com/wp-content/plugins/woo-multi-currency/css/woo-multi-currency.min.css?ver=2.1.16' media='all' />
+<style id='woo-multi-currency-inline-css'>
+.woo-multi-currency .wmc-list-currencies .wmc-currency.wmc-active,.woo-multi-currency .wmc-list-currencies .wmc-currency:hover,.woo-multi-currency.wmc-price-switcher a:hover {background: #f78080 !important;}
+		.woo-multi-currency .wmc-list-currencies .wmc-currency,.woo-multi-currency .wmc-title, .woo-multi-currency.wmc-price-switcher a {background: #212121 !important;}
+		.woo-multi-currency .wmc-title, .woo-multi-currency .wmc-list-currencies .wmc-currency span,.woo-multi-currency .wmc-list-currencies .wmc-currency a,.woo-multi-currency.wmc-price-switcher a {color: #ffffff !important;}.woo-multi-currency.wmc-shortcode .wmc-currency{background-color:#ffffff !important;color:#212121 !important}.woo-multi-currency.wmc-shortcode .wmc-current-currency{background-color:#ffffff !important;color:#212121 !important}.woo-multi-currency.wmc-shortcode.vertical-currency-symbols-circle .wmc-currency-wrapper:hover .wmc-sub-currency {animation: height_slide 100ms;}@keyframes height_slide {0% {height: 0;} 100% {height: 100%;} }
+</style>
+<link rel='stylesheet' id='wmc-flags-css'  href='https://zentyal.com/wp-content/plugins/woo-multi-currency/css/flags-64.min.css?ver=5.9.3' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='storefront-style-css'  href='https://zentyal.com/wp-content/themes/storefront/style.css?ver=3.8.1' media='all' />
+<style id='storefront-style-inline-css'>
+
+			.main-navigation ul li a,
+			.site-title a,
+			ul.menu li a,
+			.site-branding h1 a,
+			button.menu-toggle,
+			button.menu-toggle:hover,
+			.handheld-navigation .dropdown-toggle {
+				color: #333333;
+			}
+
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				border-color: #333333;
+			}
+
+			.main-navigation ul li a:hover,
+			.main-navigation ul li:hover > a,
+			.site-title a:hover,
+			.site-header ul.menu li.current-menu-item > a {
+				color: #747474;
+			}
+
+			table:not( .has-background ) th {
+				background-color: #f8f8f8;
+			}
+
+			table:not( .has-background ) tbody td {
+				background-color: #fdfdfd;
+			}
+
+			table:not( .has-background ) tbody tr:nth-child(2n) td,
+			fieldset,
+			fieldset legend {
+				background-color: #fbfbfb;
+			}
+
+			.site-header,
+			.secondary-navigation ul ul,
+			.main-navigation ul.menu > li.menu-item-has-children:after,
+			.secondary-navigation ul.menu ul,
+			.storefront-handheld-footer-bar,
+			.storefront-handheld-footer-bar ul li > a,
+			.storefront-handheld-footer-bar ul li.search .site-search,
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				background-color: #ffffff;
+			}
+
+			p.site-description,
+			.site-header,
+			.storefront-handheld-footer-bar {
+				color: #404040;
+			}
+
+			button.menu-toggle:after,
+			button.menu-toggle:before,
+			button.menu-toggle span:before {
+				background-color: #333333;
+			}
+
+			h1, h2, h3, h4, h5, h6, .wc-block-grid__product-title {
+				color: #333333;
+			}
+
+			.widget h1 {
+				border-bottom-color: #333333;
+			}
+
+			body,
+			.secondary-navigation a {
+				color: #6d6d6d;
+			}
+
+			.widget-area .widget a,
+			.hentry .entry-header .posted-on a,
+			.hentry .entry-header .post-author a,
+			.hentry .entry-header .post-comments a,
+			.hentry .entry-header .byline a {
+				color: #727272;
+			}
+
+			a {
+				color: #96588a;
+			}
+
+			a:focus,
+			button:focus,
+			.button.alt:focus,
+			input:focus,
+			textarea:focus,
+			input[type="button"]:focus,
+			input[type="reset"]:focus,
+			input[type="submit"]:focus,
+			input[type="email"]:focus,
+			input[type="tel"]:focus,
+			input[type="url"]:focus,
+			input[type="password"]:focus,
+			input[type="search"]:focus {
+				outline-color: #96588a;
+			}
+
+			button, input[type="button"], input[type="reset"], input[type="submit"], .button, .widget a.button {
+				background-color: #ee4800;
+				border-color: #ee4800;
+				color: #ffffff;
+			}
+
+			button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .button:hover, .widget a.button:hover {
+				background-color: #d52f00;
+				border-color: #d52f00;
+				color: #ffffff;
+			}
+
+			button.alt, input[type="button"].alt, input[type="reset"].alt, input[type="submit"].alt, .button.alt, .widget-area .widget a.button.alt {
+				background-color: #333333;
+				border-color: #333333;
+				color: #ffffff;
+			}
+
+			button.alt:hover, input[type="button"].alt:hover, input[type="reset"].alt:hover, input[type="submit"].alt:hover, .button.alt:hover, .widget-area .widget a.button.alt:hover {
+				background-color: #1a1a1a;
+				border-color: #1a1a1a;
+				color: #ffffff;
+			}
+
+			.pagination .page-numbers li .page-numbers.current {
+				background-color: #e6e6e6;
+				color: #636363;
+			}
+
+			#comments .comment-list .comment-content .comment-text {
+				background-color: #f8f8f8;
+			}
+
+			.site-footer {
+				background-color: #ffffff;
+				color: #6d6d6d;
+			}
+
+			.site-footer a:not(.button):not(.components-button) {
+				color: #333333;
+			}
+
+			.site-footer .storefront-handheld-footer-bar a:not(.button):not(.components-button) {
+				color: #333333;
+			}
+
+			.site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6, .site-footer .widget .widget-title, .site-footer .widget .widgettitle {
+				color: #333333;
+			}
+
+			.page-template-template-homepage.has-post-thumbnail .type-page.has-post-thumbnail .entry-title {
+				color: #000000;
+			}
+
+			.page-template-template-homepage.has-post-thumbnail .type-page.has-post-thumbnail .entry-content {
+				color: #000000;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.secondary-navigation ul.menu a:hover {
+					color: #595959;
+				}
+
+				.secondary-navigation ul.menu a {
+					color: #404040;
+				}
+
+				.main-navigation ul.menu ul.sub-menu,
+				.main-navigation ul.nav-menu ul.children {
+					background-color: #f0f0f0;
+				}
+
+				.site-header {
+					border-bottom-color: #f0f0f0;
+				}
+			}
+</style>
+<link rel='stylesheet' id='storefront-icons-css'  href='https://zentyal.com/wp-content/themes/storefront/assets/css/base/icons.css?ver=3.8.1' media='all' />
+<link rel='stylesheet' id='storefront-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C300%2C300italic%2C400italic%2C600%2C700%2C900&#038;subset=latin%2Clatin-ext&#038;ver=3.8.1' media='all' />
+<link rel='stylesheet' id='storefront-woocommerce-style-css'  href='https://zentyal.com/wp-content/themes/storefront/assets/css/woocommerce/woocommerce.css?ver=3.8.1' media='all' />
+<style id='storefront-woocommerce-style-inline-css'>
+@font-face {
+				font-family: star;
+				src: url(https://zentyal.com/wp-content/plugins/woocommerce/assets/fonts/star.eot);
+				src:
+					url(https://zentyal.com/wp-content/plugins/woocommerce/assets/fonts/star.eot?#iefix) format("embedded-opentype"),
+					url(https://zentyal.com/wp-content/plugins/woocommerce/assets/fonts/star.woff) format("woff"),
+					url(https://zentyal.com/wp-content/plugins/woocommerce/assets/fonts/star.ttf) format("truetype"),
+					url(https://zentyal.com/wp-content/plugins/woocommerce/assets/fonts/star.svg#star) format("svg");
+				font-weight: 400;
+				font-style: normal;
+			}
+			@font-face {
+				font-family: WooCommerce;
+				src: url(https://zentyal.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot);
+				src:
+					url(https://zentyal.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?#iefix) format("embedded-opentype"),
+					url(https://zentyal.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff) format("woff"),
+					url(https://zentyal.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf) format("truetype"),
+					url(https://zentyal.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce) format("svg");
+				font-weight: 400;
+				font-style: normal;
+			}
+
+			a.cart-contents,
+			.site-header-cart .widget_shopping_cart a {
+				color: #333333;
+			}
+
+			a.cart-contents:hover,
+			.site-header-cart .widget_shopping_cart a:hover,
+			.site-header-cart:hover > li > a {
+				color: #747474;
+			}
+
+			table.cart td.product-remove,
+			table.cart td.actions {
+				border-top-color: #ffffff;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count {
+				background-color: #333333;
+				color: #ffffff;
+				border-color: #ffffff;
+			}
+
+			.woocommerce-tabs ul.tabs li.active a,
+			ul.products li.product .price,
+			.onsale,
+			.wc-block-grid__product-onsale,
+			.widget_search form:before,
+			.widget_product_search form:before {
+				color: #6d6d6d;
+			}
+
+			.woocommerce-breadcrumb a,
+			a.woocommerce-review-link,
+			.product_meta a {
+				color: #727272;
+			}
+
+			.wc-block-grid__product-onsale,
+			.onsale {
+				border-color: #6d6d6d;
+			}
+
+			.star-rating span:before,
+			.quantity .plus, .quantity .minus,
+			p.stars a:hover:after,
+			p.stars a:after,
+			.star-rating span:before,
+			#payment .payment_methods li input[type=radio]:first-child:checked+label:before {
+				color: #96588a;
+			}
+
+			.widget_price_filter .ui-slider .ui-slider-range,
+			.widget_price_filter .ui-slider .ui-slider-handle {
+				background-color: #96588a;
+			}
+
+			.order_details {
+				background-color: #f8f8f8;
+			}
+
+			.order_details > li {
+				border-bottom: 1px dotted #e3e3e3;
+			}
+
+			.order_details:before,
+			.order_details:after {
+				background: -webkit-linear-gradient(transparent 0,transparent 0),-webkit-linear-gradient(135deg,#f8f8f8 33.33%,transparent 33.33%),-webkit-linear-gradient(45deg,#f8f8f8 33.33%,transparent 33.33%)
+			}
+
+			#order_review {
+				background-color: #ffffff;
+			}
+
+			#payment .payment_methods > li .payment_box,
+			#payment .place-order {
+				background-color: #fafafa;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice) {
+				background-color: #f5f5f5;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice):hover {
+				background-color: #f0f0f0;
+			}
+
+			.woocommerce-pagination .page-numbers li .page-numbers.current {
+				background-color: #e6e6e6;
+				color: #636363;
+			}
+
+			.wc-block-grid__product-onsale,
+			.onsale,
+			.woocommerce-pagination .page-numbers li .page-numbers:not(.current) {
+				color: #6d6d6d;
+			}
+
+			p.stars a:before,
+			p.stars a:hover~a:before,
+			p.stars.selected a.active~a:before {
+				color: #6d6d6d;
+			}
+
+			p.stars.selected a.active:before,
+			p.stars:hover a:before,
+			p.stars.selected a:not(.active):before,
+			p.stars.selected a.active:before {
+				color: #96588a;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+				background-color: #ee4800;
+				color: #ffffff;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger:hover {
+				background-color: #d52f00;
+				border-color: #d52f00;
+				color: #ffffff;
+			}
+
+			.button.added_to_cart:focus,
+			.button.wc-forward:focus {
+				outline-color: #96588a;
+			}
+
+			.added_to_cart,
+			.site-header-cart .widget_shopping_cart a.button,
+			.wc-block-grid__products .wc-block-grid__product .wp-block-button__link {
+				background-color: #ee4800;
+				border-color: #ee4800;
+				color: #ffffff;
+			}
+
+			.added_to_cart:hover,
+			.site-header-cart .widget_shopping_cart a.button:hover,
+			.wc-block-grid__products .wc-block-grid__product .wp-block-button__link:hover {
+				background-color: #d52f00;
+				border-color: #d52f00;
+				color: #ffffff;
+			}
+
+			.added_to_cart.alt, .added_to_cart, .widget a.button.checkout {
+				background-color: #333333;
+				border-color: #333333;
+				color: #ffffff;
+			}
+
+			.added_to_cart.alt:hover, .added_to_cart:hover, .widget a.button.checkout:hover {
+				background-color: #1a1a1a;
+				border-color: #1a1a1a;
+				color: #ffffff;
+			}
+
+			.button.loading {
+				color: #ee4800;
+			}
+
+			.button.loading:hover {
+				background-color: #ee4800;
+			}
+
+			.button.loading:after {
+				color: #ffffff;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.site-header-cart .widget_shopping_cart,
+				.site-header .product_list_widget li .quantity {
+					color: #404040;
+				}
+
+				.site-header-cart .widget_shopping_cart .buttons,
+				.site-header-cart .widget_shopping_cart .total {
+					background-color: #f5f5f5;
+				}
+
+				.site-header-cart .widget_shopping_cart {
+					background-color: #f0f0f0;
+				}
+			}
+				.storefront-product-pagination a {
+					color: #6d6d6d;
+					background-color: #ffffff;
+				}
+				.storefront-sticky-add-to-cart {
+					color: #6d6d6d;
+					background-color: #ffffff;
+				}
+
+				.storefront-sticky-add-to-cart a:not(.button) {
+					color: #333333;
+				}
+</style>
+<link rel='stylesheet' id='storefront-child-style-css'  href='https://zentyal.com/wp-content/themes/storefront-zentyal-child/style.css?ver=5.9.3' media='all' />
+<script src='https://zentyal.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://zentyal.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script id='vstr-frontend-js-extra'>
+var vstr_ajaxurl = ["https:\/\/zentyal.com\/wp-admin\/admin-ajax.php"];
+var vstr_userID = ["0"];
+var vstr_noTactile = ["0"];
+var vstr_mode = ["all"];
+var vstr_ip = ["181.24.167.174"];
+</script>
+<script src='https://zentyal.com/wp-content/plugins/WP_VisitorsTracker/assets/js/vstr_frontend.min.js?ver=2.203' id='vstr-frontend-js'></script>
+<script id='woo-multi-currency-js-extra'>
+var wooMultiCurrencyParams = {"enableCacheCompatible":"0","ajaxUrl":"https:\/\/zentyal.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='https://zentyal.com/wp-content/plugins/woo-multi-currency/js/woo-multi-currency.min.js?ver=2.1.16' id='woo-multi-currency-js'></script>
+<script src='https://zentyal.com/wp-content/themes/storefront-zentyal-child/assets/js/cookieconsent.js?ver=1' id='cookies-js'></script>
+
+<!-- Fragmento de código de Google Analytics añadido por Site Kit -->
+<script src='https://www.googletagmanager.com/gtag/js?id=UA-19061979-3' id='google_gtagjs-js' async></script>
+<script id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["zentyal.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-19061979-3", {"anonymize_ip":true});
+gtag("config", "G-07V4KXFLJX");
+</script>
+
+<!-- Final del fragmento de código de Google Analytics añadido por Site Kit -->
+<link rel="https://api.w.org/" href="https://zentyal.com/wp-json/" /><link rel="alternate" type="application/json" href="https://zentyal.com/wp-json/wp/v2/pages/1085" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://zentyal.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://zentyal.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.3" />
+<meta name="generator" content="WooCommerce 6.5.1" />
+<link rel='shortlink' href='https://zentyal.com/?p=1085' />
+<link rel="alternate" type="application/json+oembed" href="https://zentyal.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fzentyal.com%2Fes%2Fcaracteristicas%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://zentyal.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fzentyal.com%2Fes%2Fcaracteristicas%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.75.0" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<!-- Fragmento de código de Google Adsense añadido por Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- Final del fragmento de código de Google Adsense añadido por Site Kit -->
+
+<!-- Fragmento de código de Google Adsense añadido por Site Kit -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7702925842010534" crossorigin="anonymous"></script>
+
+<!-- Final del fragmento de código de Google Adsense añadido por Site Kit -->
+<link rel="icon" href="https://zentyal.com/wp-content/uploads/2019/05/zentyal-logo-rgb-lema1-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://zentyal.com/wp-content/uploads/2019/05/zentyal-logo-rgb-lema1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://zentyal.com/wp-content/uploads/2019/05/zentyal-logo-rgb-lema1.png" />
+<meta name="msapplication-TileImage" content="https://zentyal.com/wp-content/uploads/2019/05/zentyal-logo-rgb-lema1.png" />
+</head>
+
+<body class="page-template page-template-template-blank page-template-template-blank-php page page-id-1085 wp-embed-responsive theme-storefront woocommerce-no-js group-blog storefront-full-width-content storefront-align-wide right-sidebar woocommerce-active">
+
+
+<div id="page" class="hfeed site">
+
+	
+	<header id="masthead" class="site-header" role="banner" style="">
+		<div class="row-xl">
+					<a class="skip-link screen-reader-text" href="#site-navigation">Ir a la navegación</a>
+		<a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
+		<div class="logo-wrapper"><a href="https://zentyal.com/es/inicio/" rel="home"><img class="logo" alt="Zentyal Linux Server" src="https://zentyal.com/wp-content/themes/storefront-zentyal-child/assets/images/zentyal-logo.svg"></a></div>    <nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Navegación principal">
+    <button class="menu-toggle" aria-controls="site-navigation" aria-expanded="false"><span>Menú</span></button>
+        <div class="primary-navigation"><ul id="menu-primary-es" class="menu"><li id="menu-item-1300" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1085 current_page_item menu-item-1300"><a href="https://zentyal.com/es/caracteristicas/" aria-current="page">Características</a></li>
+<li id="menu-item-1301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1301"><a href="https://zentyal.com/es/partners-es/">Partners</a></li>
+<li id="menu-item-20228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20228"><a href="https://zentyal.com/es/precio-suscripcion-anual-servidor-zentyal/">Precios</a></li>
+<li id="menu-item-21728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21728"><a href="https://zentyal.com/es/noticias/">Noticias</a></li>
+<li id="menu-item-1400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400"><a href="https://zentyal.com/es/comunidad/">Comunidad</a></li>
+<li id="menu-item-1302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1302"><a href="https://zentyal.com/es/recursos/">Recursos</a></li>
+<li id="menu-item-1401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1401"><a href="https://zentyal.com/es/solicitar-oferta/">Solicitar Oferta</a></li>
+<li id="menu-item-1393-en" class="lang-item lang-item-19 lang-item-en lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-1393-en"><a href="https://zentyal.com/features/" hreflang="en-US" lang="en-US"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAmVBMVEViZsViZMJiYrf9gnL8eWrlYkjgYkjZYkj8/PujwPybvPz4+PetraBEgfo+fvo3efkydfkqcvj8Y2T8UlL8Q0P8MzP9k4Hz8/Lu7u4DdPj9/VrKysI9fPoDc/EAZ7z7IiLHYkjp6ekCcOTk5OIASbfY/v21takAJrT5Dg6sYkjc3Nn94t2RkYD+y8KeYkjs/v7l5fz0dF22YkjWvcOLAAAAgElEQVR4AR2KNULFQBgGZ5J13KGGKvc/Cw1uPe62eb9+Jr1EUBFHSgxxjP2Eca6AfUSfVlUfBvm1Ui1bqafctqMndNkXpb01h5TLx4b6TIXgwOCHfjv+/Pz+5vPRw7txGWT2h6yO0/GaYltIp5PT1dEpLNPL/SdWjYjAAZtvRPgHJX4Xio+DSrkAAAAASUVORK5CYII=" alt="EN" width="16" height="11" style="width: 16px; height: 11px;" /></a></li>
+<li id="menu-item-1402" class="btn-menu-right menu-item menu-item-type-post_type menu-item-object-page menu-item-1402"><a href="https://zentyal.com/es/trial-gratuito-de-45-dias-del-servidor-zentyal/">Trial Gratuito</a></li>
+</ul></div><div class="handheld-navigation"><ul id="menu-primary-es-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1085 current_page_item menu-item-1300"><a href="https://zentyal.com/es/caracteristicas/" aria-current="page">Características</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1301"><a href="https://zentyal.com/es/partners-es/">Partners</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20228"><a href="https://zentyal.com/es/precio-suscripcion-anual-servidor-zentyal/">Precios</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21728"><a href="https://zentyal.com/es/noticias/">Noticias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400"><a href="https://zentyal.com/es/comunidad/">Comunidad</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1302"><a href="https://zentyal.com/es/recursos/">Recursos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1401"><a href="https://zentyal.com/es/solicitar-oferta/">Solicitar Oferta</a></li>
+<li class="lang-item lang-item-19 lang-item-en lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-1393-en"><a href="https://zentyal.com/features/" hreflang="en-US" lang="en-US"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAmVBMVEViZsViZMJiYrf9gnL8eWrlYkjgYkjZYkj8/PujwPybvPz4+PetraBEgfo+fvo3efkydfkqcvj8Y2T8UlL8Q0P8MzP9k4Hz8/Lu7u4DdPj9/VrKysI9fPoDc/EAZ7z7IiLHYkjp6ekCcOTk5OIASbfY/v21takAJrT5Dg6sYkjc3Nn94t2RkYD+y8KeYkjs/v7l5fz0dF22YkjWvcOLAAAAgElEQVR4AR2KNULFQBgGZ5J13KGGKvc/Cw1uPe62eb9+Jr1EUBFHSgxxjP2Eca6AfUSfVlUfBvm1Ui1bqafctqMndNkXpb01h5TLx4b6TIXgwOCHfjv+/Pz+5vPRw7txGWT2h6yO0/GaYltIp5PT1dEpLNPL/SdWjYjAAZtvRPgHJX4Xio+DSrkAAAAASUVORK5CYII=" alt="EN" width="16" height="11" style="width: 16px; height: 11px;" /></a></li>
+<li class="btn-menu-right menu-item menu-item-type-post_type menu-item-object-page menu-item-1402"><a href="https://zentyal.com/es/trial-gratuito-de-45-dias-del-servidor-zentyal/">Trial Gratuito</a></li>
+</ul></div>    </nav><!-- #site-navigation -->
+    		<ul id="site-header-cart" class="site-header-cart menu">
+			<li class="">
+							<a class="cart-contents" href="https://zentyal.com/es/carrito/" title="Ver tu carrito de compra">
+								<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>0.00</span> <span class="count">0 productos</span>
+			</a>
+					</li>
+			<li>
+				<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>			</li>
+		</ul>
+			
+		</div>
+	</header><!-- #masthead -->
+
+
+	<div id="content" class="site-content" tabindex="-1">
+
+		
+	<div id="primary">
+		<main id="main" class="site-main" role="main">
+
+							<article id="post-1085" class="post-1085 page type-page status-publish hentry">
+
+				<div class="wrapper wrapper-m-xl">
+<div class="row-l fold mb-xxl">
+<h1 class="upper-s mb-0">Características</h1>
+<h2 class="huge-l mb-m">Facilita la gestión de tu infraestructura TIC</h2>
+<p class="txt-xl max-w-s grey mb-m mr-l">Gestiona los usuarios Windows® como estés acostumbrado, pero sin el coste asociado. Y además, unifica la gestión de tu infraestructura de red para centrarte en cuestiones TIC realmente críticas para tu negocio.</p>
+<p>        <a class="btn btn-xl" href="/es/trial-gratuito-de-45-dias-del-servidor-zentyal/" title="Solicitar trial gratuito">Comienza un Trial gratuito de 45 días</a></p>
+</div>
+<p><img class="wrapper-bg-top-right" alt="dashboard screenshot" src="/wp-content/themes/storefront-zentyal-child/assets/images/features-dash.jpg"></p>
+</div>
+<div class="wrapper wrapper-m-xl">
+<div class="row-xl">
+<div class="w50 margin-l"><picture><img alt="Domain screenshot" src="/wp-content/uploads/2019/02/screenshot-domain.png"></picture></div>
+<div class="w50 margin-l">
+<p class="upper-s">Servidor de Dominio &amp; Directorio</p>
+<h2 class="title3 mt-0">Reemplaza tu MS Active Directory® de forma transparente</h2>
+<ul class="features">
+<li>Configúralo como un servidor standalone o un DC adicional de un dominio Windows</li>
+<li>Gestiona GPOs con RSAT</li>
+<li>Asequible, no requiere CALs</li>
+</ul>
+<p class="txt-s">Zentyal ofrece una alternativa fácil a Windows Server®. Gracias a la compatibilidad nativa con Microsoft Active Directory®, puedes unir clientes Windows® al dominio y gestionarlos facilmente, sin causar interrupciones a tus usuarios.</p>
+<p><a class="arrow-link-small upper" href="#domain" title="Ver todas las características de dominio &amp; directorio">Ver más</a></p>
+</div>
+</div>
+</div>
+<div class="wrapper wrapper-m-xl">
+<div class="row-xl">
+<div class="w50 margin-l">
+<p class="upper-s">Servidor de Correo</p>
+<h2 class="title3 mt-0">Servidor de correo dedicado</h2>
+<ul class="features">
+<li>Integra un webmail moderno y ActiveSync</li>
+<li>Dominios virtuales de correo ilimitados</li>
+<li>Gestión de usuarios a través de Zentyal o Microsoft® Active Directory</li>
+</ul>
+<p class="p">Zentyal incluye los servidores SMTP y POP3/IMAP &#8211; servidores de correo estándares del sector, basados en las tecnologías y protocolos más establecidos. Despliega Zentyal como servidor de correo, servidor de dominio &amp; directorio con correo o servidor todo en uno.</p>
+<p>            <a class="arrow-link-small upper" href="#mail" title="Ver todas las características de correo">Ver más</a></p>
+</div>
+<div class="w50 margin-l"><picture><img alt="Mail screenshot" src="/wp-content/uploads/2019/02/screenshot-mail.png"></picture></div>
+</div>
+</div>
+<div class="wrapper wrapper-m-xl">
+<div class="row-xl">
+<div class="w50 margin-l"><picture><img alt="backup screenshot" src="/wp-content/themes/storefront-zentyal-child/assets/images/features-domain.png"></picture></div>
+<div class="w50 margin-l">
+<p class="upper-s">Gateway &amp; Servidor de Infraestructura</p>
+<h2 class="title3 mt-0">Asegura el acceso a Internet y unifica la infraestructura de red</h2>
+<ul class="features">
+<li>Backup</li>
+<li>Autenticación de usuarios en Proxy HTTP</li>
+<li>Bloqueo de páginas web HTTPS basado en dominio</li>
+</ul>
+<p class="p">Zentyal permite unificar y administrar fácilmente todos los servicios básicos de infraestructura de red y ofrecer acceso fiable y seguro a Internet. Zentyal integra servicios como DNS/DHCP, CA, VPN, backup, gateway, cortafuegos y proxy HTTP, por mencionar algunos.</p>
+<p>            <a class="arrow-link-small upper" href="#gateway" title="Ver todas las características de gateway e infraestructura">Ver más</a></p>
+</div>
+</div>
+</div>
+<div class="wrapper wrapper-m-xl ">
+<div class="row-xl">
+<div class="w50 margin-l">
+<p class="upper-s">Soporte Técnico</p>
+<h2 class="title3 mt-0">Ayuda de expertos cuando la necesites</h2>
+<ul class="features">
+<li>Cubre todas las características del Servidor Zentyal</li>
+<li>Ofrecido por el Equipo de Soporte Oficial de Zentyal</li>
+<li>Soporte bajo la política de mejor-esfuerzo para migraciones de Windows Server</li>
+</ul>
+<p class="p">¿No estas seguro si tienes los conocimientos necesarios para configurar y mantener el Servidor Zentyal de forma interna? Cuenta con el Equipo de Soporte de Zentyal: tienen una amplia experiencia en la prestación de soporte para despliegues comerciales de Zentyal.</p>
+<p><a class="arrow-link-small upper" href="#support" title="scroll to support features">Ver más</a></p>
+</div>
+<div class="w50 margin-l"><picture><img alt="chica con cascos resolviendo problemas" src="/wp-content/themes/storefront-zentyal-child/assets/images/img-support.png"></picture></div>
+</div>
+</div>
+<div class="wrapper wrapper-m-xl mb-xxl">
+<div class="row-xl">
+<div class="w50 margin-l"><picture><img alt="licencia infinita" src="/wp-content/themes/storefront-zentyal-child/assets/images/img-license.png"></picture></div>
+<div class="w50 margin-l">
+<p class="upper-s">Precios</p>
+<h2 class="title mt-0">Licencias Perpetuas y soporte opcional</h2>
+<p class="p">Compra la Licencia perpetua del Servidor Zentyal de acuerdo con el tamaño de tu empresa, a partir de 195€/servidor (Micro License, &lt;25 usuarios). Nuestros precios son por servidor, no se requieren CALs de usuario o de dispositivo. También ofrecemos suscripciones de soporte opcionales.</p>
+<p class="p mb-l">Para información adicional sobre los precios, sencillamente <a href="/es/solicitar-oferta/" title="solicita una oferta">solicita una oferta</a>.</p>
+<p>            <a class="btn" href="/es/solicitar-oferta/" title="Solicita una oferta">Solicita una oferta</a></p>
+</div>
+</div>
+</div>
+<div class="wrapper wrapper-m-xxl bg-grey-l poligon">
+<div class="bg-poligon-grl-uu" role="presentation"></div>
+<div class="row mb-l">
+<h2 class="title3 w50">Lista completa de características técnicas</h2>
+<p class="txt-right w50">Última versión: <strong>Zentyal 7.0</strong><br />
+basada en Ubuntu Server 20.04 LTS</p>
+</div>
+<div class="row">
+<table class="features-table">
+<tbody>
+<tr>
+<td><strong class="title4" id="domain">Dominio &amp; Directorio</strong></td>
+<td>
+<ul>
+<li>Gestión central del dominio y directorio</li>
+<li>Usuarios, Grupos de seguridad, Listas de Distribución, Contactos</li>
+<li>Múltiples Unidades Organizativas (OUs), Objetos de Directiva de Grupo (GPOs)</li>
+<li>Scripts NETLOGON, Perfiles móviles</li>
+<li>Autenticación Single Sign-On (SSO)</li>
+<li>SO soportados: Windows® XP/Vista/7/8/10</li>
+<li>Compartición de ficheros en entornos Windows® (CIFS)</li>
+<li>Permisos de acceso y modificación de Usuarios &amp; Grupos (ACLs)</li>
+<li>Gestión de fotos de perfil</li>
+<li>Importación/exportación de usuarios y grupos</li>
+<li>Audit mode on/off (servidor de ficheros)</li>
+<li>Software integrado: Samba</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong class="title4" id="mail">Correo</strong></td>
+<td>
+<ul>
+<li>Protocolos soportados: SMTP, POP3, IMAP, CalDAV, CardDAV, SIEVE</li>
+<li>Clientes soportados: Mozilla Thunderbird®</li>
+<li>Webmail</li>
+<li>Sincronización con dispositivos móviles via ActiveSync</li>
+<li>Múltiples dominios virtuales de correo</li>
+<li>Autenticación Single Sign-On (SSO)</li>
+<li>Administración a través de Zentyal o Microsoft® Active Directory</li>
+<li>Antivirus &amp; Mail filter</li>
+<li>Software integrado: Postfix, Dovecot, Fetchmail, Sieve, SOGo, SOGo ActiveSync, Amavis, ClamAV, SpamAssasin</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong class="title4" id="gateway">Gateway</strong></td>
+<td>
+<ul>
+<li>Configuración de red</li>
+<li>Encaminamiento</li>
+<li>Gateway</li>
+<li>Cortafuegos</li>
+<li>Servicio de autenticación de red (RADIUS)</li>
+<li>HTTP Proxy</li>
+<li>IDS/IPS</li>
+<li>Autenticación de usuarios en HTTP Proxy</li>
+<li>Bloqueo de páginas web HTTPS basado en dominio</li>
+<li>Integrated software: Iproute2, Netfilter, Squid, Suricata, FreeRADIUS</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong class="title4" id="infrastructure">Infraestructura</strong></td>
+<td>
+<ul>
+<li>Servidor DHCP, DNS</li>
+<li>Servidor NTP</li>
+<li>Autoridad de Certificación (CA)</li>
+<li>Virtualization Manager</li>
+<li>Redes Privadas Virtuales (VPNs)</li>
+<li>Backup</li>
+<li>Servicio de Mensajería Instantánea (IM)</li>
+<li>Servidor FTP</li>
+<li>IPSec/L2TP</li>
+<li>Antivirus con análisis de ficheros en acceso</li>
+<li>Integrated software: BIND, ISC DHCP Software, ntpd, OpenSSL, OpenVPN, ejabbered, Libvirt/KVM, Duplicity, vsftpd, Libreswan</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong class="title4" id="maintenance">Mantenimiento</strong></td>
+<td>
+<ul>
+<li>Alertas en tiempo real</li>
+<li>Informes diarios</li>
+<li>Gestión de Kernels</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong class="title4" id="support">Soporte &amp; Actualizaciones </strong></td>
+<td>
+<ul>
+<li>Actualizaciones de software y de seguridad</li>
+<li>Actualizaciones entre versiones</li>
+<li>Acceso a la base de conocimiento</li>
+<li>Soporte técnico</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+				</article><!-- #post-## -->
+
+				
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	
+	<footer id="colophon" class="wrapper" role="contentinfo">
+		<div class="row-xl">
+
+			    <nav id="foot-navigation" class="foot-navigation" role="navigation" aria-label="Foot Navigation">
+        <div>
+            For Customers            <ul id="menu-customers-footer-es" class="footer-menu"><li id="menu-item-1749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1749"><a href="https://zentyal.atlassian.net/servicedesk/customer/portal/4">Portal de soporte</a></li>
+<li id="menu-item-21410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21410"><a href="https://zentyal.com/es/precio-suscripcion-anual-servidor-zentyal/">Precio Suscripción Anual</a></li>
+<li id="menu-item-21411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21411"><a href="https://zentyal.com/es/precio-licencia-perpetua-servidor-zentyal/">Precio Licencia Perpetua</a></li>
+<li id="menu-item-21428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21428"><a href="https://zentyal.com/es/faq-2/">FAQ</a></li>
+<li id="menu-item-21412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21412"><a href="https://zentyal.com/es/recursos/">Recursos</a></li>
+<li id="menu-item-21419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21419"><a href="https://zentyal.com/es/formacion/">Formación</a></li>
+<li id="menu-item-21404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21404"><a href="https://zentyal.com/es/condiciones-de-venta/">Condiciones de Venta</a></li>
+<li id="menu-item-21403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21403"><a href="https://zentyal.com/es/terminos-y-condiciones/">Términos y Condiciones</a></li>
+</ul>        </div>
+        <div>
+            For Partners            <ul id="menu-partner-footer-es" class="footer-menu"><li id="menu-item-1748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1748"><a href="https://zentyal.com/es/partners-es/hazte-partner/">Házte partner</a></li>
+<li id="menu-item-21406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21406"><a href="https://zentyal.com/es/partners-es/">Partners</a></li>
+<li id="menu-item-21405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21405"><a href="https://zentyal.com/es/partners-es/revendedores/">Revendedores</a></li>
+<li id="menu-item-21407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21407"><a href="https://zentyal.com/es/partners-es/distribuidor/">Distribuidor</a></li>
+<li id="menu-item-21408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21408"><a href="https://zentyal.com/es/partners-es/oem/">OEM</a></li>
+</ul>        </div>
+        <div>
+            For Community            <ul id="menu-community-footer-es" class="footer-menu"><li id="menu-item-1750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1750"><a href="https://zentyal.com/community/">Descargar</a></li>
+<li id="menu-item-1751" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1751"><a href="https://doc.zentyal.org/es/">Documentación</a></li>
+<li id="menu-item-1752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1752"><a href="https://github.com/zentyal">Código</a></li>
+</ul>        </div>
+        <div>
+            For All            <ul id="menu-for-all-es" class="footer-menu"><li id="menu-item-21425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21425"><a href="https://zentyal.com/es/tienda/">Tienda</a></li>
+<li id="menu-item-21402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21402"><a href="https://zentyal.com/es/casos-de-uso/">Casos de uso</a></li>
+<li id="menu-item-1754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1754"><a href="https://zentyal.com/es/noticias/">Noticias</a></li>
+<li id="menu-item-1755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1755"><a href="https://zentyal.com/es/contactanos/">Contacta con nosotros</a></li>
+<li id="menu-item-1753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1753"><a href="https://zentyal.com/es/sobre-nosotros/">Sobre nosotros</a></li>
+</ul>        </div>
+        <div>
+            Social            <ul id="menu-social-footer" class="footer-menu"><li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111"><a href="https://www.facebook.com/zentyal/">Facebook</a></li>
+<li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112"><a href="https://twitter.com/zentyal">Twitter</a></li>
+<li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a href="https://www.youtube.com/user/zentyal">Youtube</a></li>
+<li id="menu-item-114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-114"><a href="/feed/">RSS</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115"><a href="https://zentyal.us15.list-manage.com/subscribe?u=7407f1121a2e902d23f828ed0&#038;id=2106b5b76f">Newsletter</a></li>
+</ul>        </div>
+    </nav>
+    	
+			
+			<div class="site-info txt-xs mt-xxl">
+				&copy; Zentyal Linux Server 2004-2022				<span role="separator" aria-hidden="true"></span><a class="privacy-policy-link" href="https://zentyal.com/es/politica-de-privacidad/">Aviso Legal y Política de Privacidad</a>			</div><!-- .site-info -->
+		</div><!-- .col-full -->
+
+	</footer><!-- #colophon -->
+
+	
+</div><!-- #page -->
+
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/7407f1121a2e902d23f828ed0/32f1a84b573785c6aa633e1ac.js");</script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script src='https://zentyal.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='https://zentyal.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/zentyal.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='https://zentyal.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6' id='contact-form-7-js'></script>
+<script src='https://zentyal.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.5.1' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/es\/inicio\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrito","cart_url":"https:\/\/zentyal.com\/es\/carrito\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='https://zentyal.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.5.1' id='wc-add-to-cart-js'></script>
+<script src='https://zentyal.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.5.1' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/es\/inicio\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='https://zentyal.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.5.1' id='woocommerce-js'></script>
+<script src='https://zentyal.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1-wc.6.5.1' id='jquery-cookie-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/es\/inicio\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_1bea9998539cb908fff68eacd8ef431d","fragment_name":"wc_fragments_1bea9998539cb908fff68eacd8ef431d","request_timeout":"5000"};
+</script>
+<script src='https://zentyal.com/wp-content/plugins/woo-poly-integration/public/js/Cart.min.js?ver=1.5.0' id='wc-cart-fragments-js'></script>
+<script id='ppcp-smart-button-js-extra'>
+var PayPalCommerceGateway = {"script_attributes":{"data-partner-attribution-id":"Woo_PPCP"},"data_client_id":{"set_attribute":false,"endpoint":"\/es\/inicio\/?wc-ajax=ppc-data-client-id","nonce":"d003a4b947","user":0,"has_subscriptions":false},"redirect":"https:\/\/zentyal.com\/es\/finalizar-compra\/","context":"mini-cart","ajax":{"change_cart":{"endpoint":"\/es\/inicio\/?wc-ajax=ppc-change-cart","nonce":"c3eb73bb43"},"create_order":{"endpoint":"\/es\/inicio\/?wc-ajax=ppc-create-order","nonce":"34fd9eae74"},"approve_order":{"endpoint":"\/es\/inicio\/?wc-ajax=ppc-approve-order","nonce":"67179d45dd"},"vault_paypal":{"endpoint":"\/es\/inicio\/?wc-ajax=ppc-vault-paypal","nonce":"6ba6f372e9"}},"enforce_vault":"","can_save_vault_token":"","is_free_trial_cart":"","vaulted_paypal_email":"","bn_codes":{"checkout":"Woo_PPCP","cart":"Woo_PPCP","mini-cart":"Woo_PPCP","product":"Woo_PPCP"},"payer":null,"button":{"wrapper":"#ppc-button","mini_cart_wrapper":"#ppc-button-minicart","cancel_wrapper":"#ppcp-cancel","url":"https:\/\/www.paypal.com\/sdk\/js?client-id=AZPwiydyJD6YOk4TVeSMcbi2gYmPSJDf0zvw0JvsBmqj9blx5rFU613zqJ89zm0H3LFbWXB27_0wJlaW&currency=USD&integration-date=2022-04-13&components=buttons,messages&vault=false&commit=false&intent=capture&disable-funding=card&enable-funding=venmo,paylater","mini_cart_style":{"layout":"vertical","color":"gold","shape":"rect","label":"paypal","height":35},"style":{"layout":"vertical","color":"gold","shape":"rect","label":"paypal"}},"hosted_fields":{"wrapper":"#ppcp-hosted-fields","mini_cart_wrapper":"#ppcp-hosted-fields-mini-cart","labels":{"credit_card_number":"","cvv":"","mm_yy":"MM\/YY","fields_not_valid":"Desafortunadamente, los detalles de tu tarjeta de cr\u00e9dito no son v\u00e1lidos.","card_not_supported":"Desafortunadamente, no admitimos tu tarjeta de cr\u00e9dito.","cardholder_name_required":"El nombre y apellidos del titular de la tarjeta son obligatorios, por favor, rellena los campos obligatorios del formulario de finalizar compra."},"valid_cards":["mastercard","visa","amex","discover","american-express","master-card"],"contingency":"SCA_WHEN_REQUIRED"},"messages":[],"labels":{"error":{"generic":"Algo ha salido mal. Por favor, int\u00e9ntalo de nuevo o elige otra fuente de pago."}},"order_id":"0","single_product_buttons_enabled":"1","mini_cart_buttons_enabled":"1"};
+</script>
+<script src='https://zentyal.com/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=1.8.0' id='ppcp-smart-button-js'></script>
+<script id='mailchimp-woocommerce-js-extra'>
+var mailchimp_public_data = {"site_url":"https:\/\/zentyal.com","ajax_url":"https:\/\/zentyal.com\/wp-admin\/admin-ajax.php","disable_carts":"","subscribers_only":"","language":"es","allowed_to_set_cookies":"1"};
+</script>
+<script src='https://zentyal.com/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.6.2.01' id='mailchimp-woocommerce-js'></script>
+<script src='https://zentyal.com/wp-content/themes/storefront-zentyal-child/assets/js/main.js?ver=1' id='main-js'></script>
+<script id='storefront-navigation-js-extra'>
+var storefrontScreenReaderText = {"expand":"Expandir el men\u00fa hijo","collapse":"Contraer el men\u00fa hijo"};
+</script>
+<script src='https://zentyal.com/wp-content/themes/storefront/assets/js/navigation.min.js?ver=3.8.1' id='storefront-navigation-js'></script>
+<script src='https://www.google.com/recaptcha/api.js?render=6LdWD6EUAAAAAGtss8W6cmCd-vAgH4IGcplldLCd&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script id='wpcf7-recaptcha-js-extra'>
+var wpcf7_recaptcha = {"sitekey":"6LdWD6EUAAAAAGtss8W6cmCd-vAgH4IGcplldLCd","actions":{"homepage":"homepage","contactform":"contactform"}};
+</script>
+<script src='https://zentyal.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.5.6' id='wpcf7-recaptcha-js'></script>
+<script src='https://zentyal.com/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js?ver=3.8.1' id='storefront-header-cart-js'></script>
+<script src='https://zentyal.com/wp-content/themes/storefront/assets/js/footer.min.js?ver=3.8.1' id='storefront-handheld-footer-bar-js'></script>
+
+</body>
+</html>
